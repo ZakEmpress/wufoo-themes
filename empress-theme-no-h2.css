@@ -1,3 +1,7 @@
 .info h2 {
   display: none;
 }
+
+body {
+  background-color: aliceblue;
+}
